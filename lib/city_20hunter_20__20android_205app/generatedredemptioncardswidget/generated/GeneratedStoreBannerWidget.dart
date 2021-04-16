@@ -45,24 +45,6 @@ class GeneratedStoreBannerWidget extends StatelessWidget {
               width: 19.05956268310547,
               height: 17.0,
               child: GeneratedPathWidget120(),
-            ),
-            Positioned(
-              left: 249.22119140625,
-              top: 205.0,
-              right: null,
-              bottom: null,
-              width: 139.362548828125,
-              height: 39.9310302734375,
-              child: GeneratedBarcelonaWidget8(),
-            ),
-            Positioned(
-              left: 231.27725219726562,
-              top: 218.0,
-              right: null,
-              bottom: null,
-              width: 11.24420166015625,
-              height: 12.32757568359375,
-              child: GeneratedShapeWidget27(),
             )
           ]),
     );
