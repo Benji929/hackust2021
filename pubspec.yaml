@@ -1,0 +1,65 @@
+description: "A new Flutter application."
+name: "flutterapp"
+publish_to: "none"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^0.1.3"
+  path_drawing: "^0.4.1"
+  flutter: 
+    sdk: "flutter"
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.7.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Aclonica"
+      fonts: 
+        - 
+          asset: "fonts/Aclonica-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Alegreya Sans"
+      fonts: 
+        - 
+          asset: "fonts/AlegreyaSans-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/AlegreyaSans-700.ttf"
+          style: "normal"
+          weight: 700
+    - 
+      family: "Roboto"
+      fonts: 
+        - 
+          asset: "fonts/Roboto-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Alegreya"
+      fonts: 
+        - 
+          asset: "fonts/Alegreya-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Aladin"
+      fonts: 
+        - 
+          asset: "fonts/Aladin-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Alatsi"
+      fonts: 
+        - 
+          asset: "fonts/Alatsi-regular.ttf"
+          style: "normal"
+          weight: 400
+  uses-material-design: true
