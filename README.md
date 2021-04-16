@@ -1,5 +1,5 @@
 # HackUST 2021 - Team 003 !csDogs
-# City Hunter - a gamified smart travel app
+## City Hunter - a gamified smart travel app
 
 ### Summary
 City Hunter offers an all-in-one package essentials for tourists and local travellers alike. As part of the target group of young adults eager to travel after the pandemic, we know first hand the excitement to travel the moment we get the chance which is how we formulated this idea. We wanted to create an exciting project that can simplify the work going behind the planning of a trip without taking the spontaneous fun out of it!
